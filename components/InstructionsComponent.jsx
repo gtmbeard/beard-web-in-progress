@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					First 3<span>FNAF GAMES</span>
+					First 3 <span>FNAF GAMES</span>
 				</h1>
 				<p>
 					These Are All{" "}
