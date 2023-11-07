@@ -6,36 +6,36 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-web3-dapp</span>
+					First 3<span>FNAF GAMES</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					These Are All{" "}
+					<span>UNBLOCKED</span>
 				</p>
 			</header>
 
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://fnaf1.netlify.app"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>FNAF 1</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://fnaf2.netlify.app"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>FNAF 2</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://fnaf3.netlify.app"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,7 +43,7 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>FNAF 3</p>
 					</div>
 				</a>
 			</div>
@@ -59,18 +59,18 @@ export default function InstructionsComponent() {
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://craftmine.netlify.app"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							CLick Here For Craftmine
 						</a>
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://slopegame.netlify.app"
 							target={"_blank"}
 						>
-							Follow us on Twitter
+							Click Here For Slope
 						</a>
 					</div>
 				</div>
